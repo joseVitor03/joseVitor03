@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Olá! Eu sou o José Vitor 🤙🏽
 #### Em busca de ser um Desenvolver Web Full Stack. Atualmente sou estudante da Trybe.
