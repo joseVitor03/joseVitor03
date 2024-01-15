@@ -22,6 +22,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
   
-  <img style="width: 350px; height: 290px; margin-left: 30%" src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif">
+  <img style="width: 350px; height: 290px; margin-left: 10%" src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif">
 </div>
 
