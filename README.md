@@ -19,7 +19,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div><br><br>
 <div style="display: inline_block">
-    <img src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif" />
+    <img src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif" /> 
 </div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
 
