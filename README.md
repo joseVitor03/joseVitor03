@@ -18,5 +18,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div><br><br>
+<div style="display: inline_block">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
