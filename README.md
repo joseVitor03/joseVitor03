@@ -20,5 +20,5 @@
 </div><br><br>
 <div style="display: inline_block">
 </div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
 
