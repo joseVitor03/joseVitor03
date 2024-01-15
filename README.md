@@ -1,4 +1,4 @@
-### Olá! Eu sou o José Vitor 🤙🏽
+#### Olá! Eu sou o José Vitor 🤙🏽
 #### Em busca de ser um Desenvolver Web Full Stack. Atualmente sou estudante da Trybe.
 #### Sobre Mim:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-dev/)
@@ -23,4 +23,3 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
   
 </div>
-
