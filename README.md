@@ -16,7 +16,9 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-</div><br><br>
-  <img style="width: 90%; text-align: center" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" />
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseVitor03&hide_progress=false&theme=dark)
+</div><br><br>
+
+<div style="display: flex"><br>
+    <img style="width: 50%" src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" />
+</div>
