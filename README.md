@@ -16,7 +16,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img style="width: 350px; height: 290px; margin-left: 10%" src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif">
+  <img src="https://i.pinimg.com/originals/9c/a6/98/9ca698c2e10fe61210fe9947c5e4be66.gif" />
 </div><br><br>
 <div style="display: flex">
 
