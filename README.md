@@ -11,8 +11,9 @@ Sempre tive interesse em **tecnologia** e, através dela, estou aprendendo e des
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseVitor03)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jv681033@gmail.com)
 
-<div style="display: flex"> 
-    <img align="center" style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=joseVitor03&show_icons=true&theme=dark" />
+## Stats
+<div align="center">
+    <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=joseVitor03&show_icons=true&theme=dark" />
     <img align="center" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseVitor03&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
