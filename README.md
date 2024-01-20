@@ -4,7 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseVitor03)
 
-![José Vitor GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=joseVitor03&theme=dark&show_icons=true)
+<div style="display: flex"> 
+    <img align="center" style="width: 400px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=joseVitor03&theme=dark&show_icons=true" />
+    <img align="center" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</div>
 
 ## Technologies
 
