@@ -1,12 +1,19 @@
 #### Olá! Eu sou o José Vitor 🤙🏽
 #### Em busca de ser um Desenvolver Web Full Stack. Atualmente sou estudante da Trybe.
 #### Sobre Mim:
+Sou um **desenvolvedor web brasileiro**, que gosta de livros e quadrinhos :books:. Em meu tempo livre gosto de assistir series e filmes. E sou um entusiasta por esporte e e-sports(um tempo atrás estava assistindo a final mundial de arremesso de dardos :smile:).
+<br><br>
+Sempre tive interesse em tecnologia e com ela estou apreendendo e conhecendo algo novo o tempo todo por conta do seu avanço diário. E isso me inspira a continuar essa jornada, em busca de conhecimento e mundos novos.
+<img align="center" height="60px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
+
+<br><br>
+## Redes
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseVitor03)
 
 <div style="display: flex"> 
-    <img align="center" style="width: 400px" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=joseVitor03&theme=dark&show_icons=true" />
-    <img align="center" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=dark" />
+    <img align="center" style="width: 400px" src="https://github-readme-stats.vercel.app/api?username=joseVitor03&show_icons=true&theme=dark" />
+    <img align="center" height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseVitor03&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div>
 
 ## Technologies
