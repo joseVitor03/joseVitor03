@@ -6,7 +6,6 @@ Sou um **desenvolvedor web brasileiro** que aprecia **livros e quadrinhos** :boo
 Sempre tive interesse em **tecnologia** e, através dela, estou aprendendo e descobrindo algo novo o tempo todo devido ao seu avanço diário. Isso me inspira a continuar essa jornada em busca de **conhecimento e novos horizontes**.
 <img align="center" height="40px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
 
-
 <br><br>
 ## Redes
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-vitor-dev/)
