@@ -4,7 +4,7 @@
 Sou um **desenvolvedor web brasileiro**, que gosta de livros e quadrinhos :books:. Em meu tempo livre gosto de assistir series e filmes. E sou um entusiasta por esporte e e-sports(um tempo atrás estava assistindo a final mundial de arremesso de dardos :smile:).
 <br><br>
 Sempre tive interesse em tecnologia e com ela estou apreendendo e conhecendo algo novo o tempo todo por conta do seu avanço diário. E isso me inspira a continuar essa jornada, em busca de conhecimento e mundos novos.
-<img align="center" height="60px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
+<img align="center" height="40px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
 
 <br><br>
 ## Redes
