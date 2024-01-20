@@ -6,7 +6,7 @@ Sou um **desenvolvedor web brasileiro** que aprecia **livros e quadrinhos** :boo
 Sempre tive interesse em **tecnologia** e, através dela, estou aprendendo e descobrindo algo novo o tempo todo devido ao seu avanço diário. Isso me inspira a continuar essa jornada em busca de **conhecimento e novos horizontes**.
 <img align="center" height="40px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
 
-[Entre em contato por e-mail](jv681033@gmail.com)
+[Entre em contato por e-mail](https://jv681033@gmail.com)
 
 
 <br><br>
