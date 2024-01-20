@@ -1,9 +1,9 @@
 #### Olá! Eu sou o José Vitor 🤙🏽
 #### Em busca de ser um Desenvolver Web Full Stack. Atualmente sou estudante da Trybe.
 #### Sobre Mim:
-Sou um **desenvolvedor web brasileiro**, que gosta de livros e quadrinhos :books:. Em meu tempo livre gosto de assistir series e filmes. E sou um entusiasta por esporte e e-sports(um tempo atrás estava assistindo a final mundial de arremesso de dardos :smile:).
-<br><br>
-Sempre tive interesse em tecnologia e com ela estou apreendendo e conhecendo algo novo o tempo todo por conta do seu avanço diário. E isso me inspira a continuar essa jornada, em busca de conhecimento e mundos novos.
+Sou um **desenvolvedor web brasileiro** que aprecia **livros e quadrinhos** :books:. No meu tempo livre, gosto de assistir **séries e filmes**. Sou entusiasta de esportes e e-sports (recentemente, estava assistindo à final mundial de arremesso de dardos :smile:).
+
+Sempre tive interesse em **tecnologia** e, através dela, estou aprendendo e descobrindo algo novo o tempo todo devido ao seu avanço diário. Isso me inspira a continuar essa jornada em busca de **conhecimento e novos horizontes**.
 <img align="center" height="40px" align="center" src="https://i.pinimg.com/originals/6f/28/4b/6f284b5a601aaf0c7732b2e5d5787b59.gif" />
 
 <br><br>
