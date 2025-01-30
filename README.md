@@ -1,5 +1,5 @@
 #### Olá! Eu sou o José Vitor 🤙🏽
-#### Em busca de ser um Desenvolver Web Full Stack.
+#### Desenvolver Web Full Stack.
 #### Sobre Mim:
 Sou um **desenvolvedor web brasileiro** que aprecia **livros e quadrinhos** :books:. No meu tempo livre, gosto de assistir **séries e filmes**. Sou entusiasta de esportes e e-sports (recentemente, estava assistindo à final mundial de arremesso de dardos :smile:).
 
